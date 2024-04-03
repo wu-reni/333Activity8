@@ -1,0 +1,4 @@
+Dogs: 20
+Cats: 40
+Sanity: 0
+Screws: 200
